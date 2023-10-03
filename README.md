@@ -25,6 +25,10 @@ thresholding)
 Display the Results
 
 ## Program
+```
+Developed By: Jegathish S
+Register No: 212221230041
+```
 
 ```
 # Load the necessary packages
